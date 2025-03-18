@@ -9,6 +9,11 @@ int main() {
     int perulanganWhile = 0;
     int perulanganDo = 0;
 
+    srand(time(0));
+    x = rand() % 10;
+    cout << "perulangan while " << endl;
+    cout << "Nilai x awal " << x << endl;
+    
 
 }
 
