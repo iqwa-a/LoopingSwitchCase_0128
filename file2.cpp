@@ -20,6 +20,8 @@ int main() {
         x = rand() % 10;
         perulanganWhile++;
     }
+    cout << "Nilai x telahir = " <<x << endl;
+    cout << "Perulangan while = " << perulanganWhile << endl;
     
 
 }
